@@ -1,14 +1,9 @@
-SKCraft Launcher
+Isolonice Launcher
 ================
+Ce projet est open-source et maintenu par sk69, vous pourrez retrouver le projet original ici : https://github.com/SKCraft/Launcher.
+Toutes les modifications faites sont en Français et en relation avec les serveurs Isolonice : http://isolonice.fr.
 
-This project provides an open-source Minecraft launcher platform for downloading, installing, and updating modpacks.
-
-The launcher has its roots in MC Alpha as a launcher for sk89q's server.
-
-**Note:** There are two names to the launcher:
-
-* "SKMCLauncher" is the *older* version of this launcher. It is a more generic all-purpose launcher. It is no longer supported.
-* This project is called "SKCraft Launcher." It is supported and in active use.
+Il vous permettra de télécharger, installer, mettre à jour, les modpack que nous proposons sur Isolonice
 
 ## Screenshots
 
